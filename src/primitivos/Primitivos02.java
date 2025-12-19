@@ -5,7 +5,7 @@ public class Primitivos02 {
         int idade = 17;
         IO.println("Idade: "+ idade);
 
-        if(idade >= idade){
+        if(idade >= 18){
             IO.println("Maior de idade");
         }else{
             IO.println("Menor de idade");
