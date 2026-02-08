@@ -1,3 +1,5 @@
+package primitivos;
+
 public class Exercicio01 {
     void main(){
         String nomeMissao = "Voyager-X";
