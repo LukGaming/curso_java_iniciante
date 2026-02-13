@@ -1,5 +1,7 @@
 package LacosRepeticoes;
 
+
+
 public class While {
     void main(){
         int contador = 0;
